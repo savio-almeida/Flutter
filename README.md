@@ -1,5 +1,7 @@
 # auto_control_panel
 
+Projeto em andamento e em CORREÇÃO
+
 A new Flutter project.
 
 ## Getting Started
